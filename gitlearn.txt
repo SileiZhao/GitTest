@@ -4,3 +4,20 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 F**king Out!
 F**king out!
+linux
+	linux
+		linux
+			linux
+				linux
+			linux
+		linux
+	linux
+F**king Out!
+F**king out!
+linux
+	linux
+		linux
+			linux
+F**king out!
+F**king out!
+
