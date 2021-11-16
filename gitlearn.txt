@@ -20,4 +20,9 @@ linux
 			linux
 F**king out!
 F**king out!
+machine learing
+cloud computing
+machine vision
+routing and switching
+database technique
 
